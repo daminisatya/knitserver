@@ -6,6 +6,7 @@ Knitserver is a Knitlib client that provides REST API endpoints for Knitting Mac
 ## 2. How to install Knit-Server
 ### 2.1 Requirements
 Knitlib Web requires the Knitlib library to be installed and Flask as main dependencies. Check requirements.txt for more.
+For installing knilib use the command, pip install git+https://github.com/fossasia/knitlib.git
 ### 2.2 Step by Step Installation
 
 Currently there is not a packaged version of Knitserver, however it is quite easy to get up and running.
